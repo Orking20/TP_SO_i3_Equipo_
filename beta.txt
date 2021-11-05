@@ -98,3 +98,40 @@ lo: flags=73<UP,LOOPBACK,RUNNING> mtu 65536
 	TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
 Thu Nov  4 00:28:45     2021
 >>>>>>> bed32d4e465c35b2a7d505e337b238bdeee61b2d
+
+
+Paula Lucá
+Configuraci▒n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec▒fico para la conexi▒n. . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec▒fico para la conexi▒n. . :
+   Direcci▒n IPv6 . . . . . . . . . . : 2800:810:44e:112::1003
+   Direcci▒n IPv6 . . . . . . . . . . : 2800:810:44e:112:542c:5a1d:d7db:9e41
+   Direcci▒n IPv6 temporal. . . . . . : 2800:810:44e:112:4925:2ffc:745b:33d5
+   V▒nculo: direcci▒n IPv6 local. . . : fe80::542c:5a1d:d7db:9e41%6
+   Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.0.105
+   M▒scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::86a0:6eff:fe65:c585%6
+                                       192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec▒fico para la conexi▒n. . :
+   V▒nculo: direcci▒n IPv6 local. . . : fe80::7598:6a2b:7872:55ae%17
+   Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M▒scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec▒fico para la conexi▒n. . :
+
+Thu Nov  4 23:44:07     2021
