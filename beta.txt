@@ -34,3 +34,46 @@ Adaptador de LAN inal▒mbrica Wi-Fi:
    M▒scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
 Thu Nov  4 00:28:45     2021
+
+Diego Maiorano 
+
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::5435:1819:7c86:8614%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : pcnat.telecentro.net.ar
+   Dirección IPv6 . . . . . . . . . . : 2800:810:487:81ad::5
+   Dirección IPv6 . . . . . . . . . . : 2800:810:487:81ad:dc26:40e7:395b:383d
+   Dirección IPv6 temporal. . . . . . : 2800:810:487:81ad:5c2b:1c38:cb7f:4bc8
+   Vínculo: dirección IPv6 local. . . : fe80::dc26:40e7:395b:383d%17
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.17
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::4a83:c7ff:fe88:908c%17
+                                       192.168.0.1
+
+Thu Nov  4 23:34:53     2021
