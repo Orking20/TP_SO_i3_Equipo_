@@ -1,5 +1,6 @@
 Mateo Luchetti Capalbo
 ifconfig:
+<<<<<<< HEAD
 Configuraci▒n IP de Windows
 
 
@@ -77,3 +78,23 @@ Adaptador de LAN inalámbrica Wi-Fi:
                                        192.168.0.1
 
 Thu Nov  4 23:34:53     2021
+=======
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST> mtu 1500
+	inet 192.168.0.175 netmask 255.255.255.0 broadcast 192.168.0.255
+	inet6 fe80::da9d:637e:5d02:9e75 prefixlen 64 scopeid 0x20<link>
+	ether 08:00:27:65:e5:19 txqueuelen 1000 (Ethernet)
+	RX packets 2433 bytes 3428216 (3.2 MiB)
+	RX errors 0 dropped 0 overruns 0 frame 0
+	TX packets 1569 bytes 117815 (115.0 KiB)
+	TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING> mtu 65536
+	inet 127.0.0.1 netmask 255.0.0.0
+	inet6 ::1 prefixlen 128 scopeid 0x10<host>
+	loop txqueuelen 1000 (Local Loopback)
+	RX packets 10 bytes 1570 (1.5 KiB)
+	RX errors 0 dropped 0 overruns 0 frame 0
+	TX packets 10 bytes 1570 (1.5 KiB)
+	TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
+Thu Nov  4 00:28:45     2021
+>>>>>>> bed32d4e465c35b2a7d505e337b238bdeee61b2d
