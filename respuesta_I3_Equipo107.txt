@@ -25,8 +25,14 @@ D-
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
 E-
 
-f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+f-¿Qué debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
 F-
 
-G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
-G-
+G-¿Qué debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+G- 	git checkout luchetti 
+	git branch -a
+	git status 
+	git pull 
+	git add .
+	git commit -m “commit ALFA”
+	git push
