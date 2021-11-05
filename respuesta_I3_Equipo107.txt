@@ -1,0 +1,32 @@
+Maiorano Diego
+Lucá Paula
+Luchetti Capalbo Mateo
+
+a-¿Cómo queda el máster después de estos cambios?
+A-Queda con la información que tenía al principio sumada a la que tenían las otras ramas, es decir,
+se modificó conservando los datos que ya tenía, modificando los que cambiamos y agregando nuevos.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+B-La mayoría de cambios los puedo ver tanto en por la solapa 'Projects' donde
+nos vamos informando que cambios hacemos, como mirando los commits, aunque no
+pude ver los merge que se hicieron.
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+C-
+git branch
+git checkout main
+git branch
+git merge maiorano -m "Integro la rama maiorano a main"
+git push
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?+
+D-
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+E-
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+F-
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+G-
